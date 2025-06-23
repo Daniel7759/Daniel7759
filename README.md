@@ -47,6 +47,7 @@ WordPress, Elementor, WooCommerce
 
 ## 📊 GitHub Stats
 
+![Daniel7759's Stats](https://github-readme-stats.vercel.app/api?username=Daniel7759&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Daniel7759's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel7759&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
