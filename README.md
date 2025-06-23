@@ -1,9 +1,57 @@
-- 👋 Hi, I’m @Daniel7759
-- 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning Kotlin with Android Studio and Docker
-- 💞️ I’m looking to collaborate on Open-source projects, app development, tech discussions
-- 📫 How to reach me on danieljh7759@gmail.com
-- 😄 Pronouns: He
+# Hi, I'm Daniel Julcamoro 👋
+
+🎯 Passionate about backend development, APIs, and building scalable web systems.  
+📍 Based in Lima, Peru | 📧 danijh7759@gmail.com
+
+---
+
+## 💼 About Me
+
+I'm a Systems Development graduate with hands-on experience in web and backend development.  
+I’ve built and integrated complex modules, worked with RESTful APIs, and deployed applications using Docker.  
+I’m proactive, adaptable, and always eager to learn and contribute to meaningful projects.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**  
+Java, JavaScript, Kotlin, Spring Boot, JPA, Hibernate
+
+**Frontend:**  
+HTML, CSS, JavaScript, Angular, Astro
+
+**Databases:**  
+PostgreSQL, MySQL, SQL Server, MongoDB
+
+**Tools & Platforms:**  
+Docker, Git, Maven, Swagger
+
+**Testing:**  
+JUnit 5, Mockito
+
+**Best Practices:**  
+SOLID principles, RESTful API design, SEO
+
+**CMS:**  
+WordPress, Elementor, WooCommerce
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/danieljulcamorohuanca)  
+- 🌍 [Portfolio](https://portfolio-dani7759.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dani7759&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile!
 
 <!---
 Daniel7759/Daniel7759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
